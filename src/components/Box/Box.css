@@ -1,0 +1,29 @@
+.box h2 {
+    color: #fd58ff;
+    width: auto;
+}
+
+.box p {
+    background-color: #18052c;
+    color: white;
+}
+
+
+.item {
+    background-color: #18052c;
+    color: white;
+    border-top: 2px solid #2f0e51;
+    border-right: 2px solid #2f0e51;
+    border-bottom: 2px solid #2f0e51;
+    border-left: 2px solid #2f0e51;
+    gap: 20px;
+    padding: 10px;
+}
+
+.price {
+    background-color:#18052c;
+    border-top: 2px solid #2f0e51;
+    border-right: 2px solid #2f0e51;
+    border-bottom: 2px solid #2f0e51;
+    border-left: 2px solid #2f0e51;
+}

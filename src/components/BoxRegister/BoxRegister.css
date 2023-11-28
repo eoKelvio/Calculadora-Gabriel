@@ -1,0 +1,41 @@
+.boxRegister{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    background-color: #18052c;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+    color: white;
+    border-top: 2px solid #2f0e51;
+    border-right: 2px solid #2f0e51;
+    border-bottom: 2px solid #2f0e51;
+    border-left: 2px solid #2f0e51;
+}
+
+.button {
+    width: 50%;
+    text-align: center;
+}
+
+.name{
+    padding: 100px;
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    color: #fd58ff;
+}
+
+.boxTitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

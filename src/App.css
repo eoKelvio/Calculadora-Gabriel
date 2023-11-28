@@ -1,0 +1,10 @@
+body {
+    background-color: #11031f; /* ou qualquer cor desejada */
+    margin: 0;
+    padding: 0;
+  }
+
+.body{
+    gap: 30px;
+    padding: 10px;
+}
